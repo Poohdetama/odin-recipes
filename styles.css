@@ -1,0 +1,20 @@
+body, h1, p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+h1 {
+    font-size: 48px;
+    text-shadow: 1px 1px 0.5px #000;
+    color: goldenrod;
+    text-decoration: underline;
+    margin-bottom: -12px;
+}
+
+p {
+    font-size: 20px;
+}
+
+ul {
+    text-align: left;
+    margin-left: 120px;
+}
